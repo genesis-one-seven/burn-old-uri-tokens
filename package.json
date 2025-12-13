@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "dotenv": "^16.4.1",
+    "xahau": "^4.0.3",
+    "xrpl": "^4.4.3",
+    "xrpl-accountlib": "^3.2.9",
+    "xrpl-client": "^2.3.1"
+  }
+}
