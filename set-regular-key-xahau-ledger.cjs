@@ -79,7 +79,9 @@ async function main() {
 main();
 
 
-/*{
+/*
+Here's the package.json file content:
+{
   "name": "regularkey",
   "version": "1.0.0",
   "description": "",
