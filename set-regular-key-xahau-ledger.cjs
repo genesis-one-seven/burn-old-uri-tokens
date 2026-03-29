@@ -77,3 +77,23 @@ async function main() {
 }
 
 main();
+
+
+/*{
+  "name": "regularkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ledgerhq/hw-app-xrp": "^6.36.0",
+    "@ledgerhq/hw-transport-node-hid": "^6.32.1",
+    "ripple-binary-codec": "^2.7.0",
+    "xrpl": "^2.14.0"
+  }
+} */
